@@ -1,8 +1,9 @@
 # segment_masks
-Based on assignment, uses open CV to parse image and find masks, extract and save masks.
+Uses open CV to parse image and find masks, extract and save masks.
 
 The task is to extract N rectangular images as shown on the picture below. 
 Find N images and cropped output is always vertical. 
+
 ![plot](sample_output.png)
 
 
