@@ -10,7 +10,9 @@ Find N images and cropped output is always vertical.
 ## Installation
 Developed on Python 3.10.6.
 
-`pip install -r requirements.txt`
+0. Clone the repository
+1. Create and activate new virtual environment.
+2. `pip install -r requirements.txt`
 
 ## Usage
 ```
